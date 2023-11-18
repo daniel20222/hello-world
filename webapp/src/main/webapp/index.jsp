@@ -9,7 +9,7 @@
    </head>
 <body>
   <div class="wrapper">
-    <h2>Registration</h2>
+    <h2>New Student Registration form</h2>
     <form action="#">
       <div class="input-box">
         <input type="text" placeholder="Enter your name" required>
