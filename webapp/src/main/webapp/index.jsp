@@ -9,7 +9,7 @@
    </head>
 <body>
   <div class="wrapper">
-    <h2>Registration for student in Daniel INCORPORATED</h2>
+    <h2>DANIEL EMESSIENE PAGE</h2>
     <form action="#">
       <div class="input-box">
         <input type="text" placeholder="Enter your name" required>
