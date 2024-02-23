@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="name"><b>Name of the student that is making the registration simple</b></label>
+    <label for="name"><b>Name Student Name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
